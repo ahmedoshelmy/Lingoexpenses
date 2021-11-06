@@ -1,0 +1,2 @@
+# Lingoexpenses
+Personal expenses app
